@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Alexander/Downloads/Unity/4_Argon_Assault-master/Assets/Scenes/Game.unity
+  isLoaded: 1
+  isActive: 1
